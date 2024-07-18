@@ -11,7 +11,7 @@
 /* ************************************************************************** */
 
 #include "ft_printf.h"
-#include <stdio.h>
+//#include <stdio.h>
 
 static int	ft_putchar(char c)
 {
@@ -39,14 +39,14 @@ int	ft_print_hexup(unsigned int n)
 	return (length);
 }
 
-int	main(void)
-{
-	unsigned int	number;
-
-	number = 3054464646;
-	ft_print_hexup(number);
-	ft_putchar('\n');
-	printf("%X", number);
-	return (0);
-}
+//int	main(void)
+//{
+//	unsigned int	number;
+//
+//	number = 3054464646;
+//	ft_print_hexup(number);
+//	ft_putchar('\n');
+//	printf("%X", number);
+//	return (0);
+//}
 
