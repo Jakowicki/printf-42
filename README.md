@@ -62,5 +62,5 @@ Compile your project with ft_printf:
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request. Make sure to follow the coding standards and include appropriate tests.
 
 ## License 📜
--
+
 This project is licensed under the MIT License. See the LICENSE file for details.
